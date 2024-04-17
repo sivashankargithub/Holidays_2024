@@ -35,7 +35,7 @@ Load “holidays1.csv file and display List of Holidays in Mar 2024 without usin
 
 Project Link : https://github.com/sivashankargithub/Holidays_2024
 
-<h2>Project 2:</h2>
+<h2>Project 2</h2>
 
 1. Load “holidays1.csv file and display List of Holidays in Mar 2024 using MySQL Database
 
@@ -113,7 +113,7 @@ Project Link : https://github.com/sivashankargithub/Holidays_2024
 
 Project Link : https://github.com/sivashankargithub/Holidays_2024
 
-<h2>Project 3:</h2>
+<h2>Project 3</h2>
 
 Load “holidays1.csv file and display List of Holidays in Mar 2024 using PostgreSQL Database
 
@@ -196,7 +196,7 @@ Initial version on 16-Apr-2024 by ckuthyar@gmail.com
 
 Next version on 17-Apr-2024 by sivashankarchandrappa.sangamone@gmail.com
 
-<h2>Youtube Link :</h2>
+<h2>Youtube Link</h2>
 
 https://youtu.be/n1yGwMyhdZw?si=U2uZUi-hivXyL4zf
 
